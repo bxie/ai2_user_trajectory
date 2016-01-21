@@ -58,3 +58,5 @@ target/
 
 #Jupyter NB
 .ipynb_checkpoints/
+
+.DS_STORE
